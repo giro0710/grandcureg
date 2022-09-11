@@ -13,6 +13,7 @@ const Home: NextPage = () => {
 
       <main className="w-full h-screen flex flex-col items-center justify-center">
         <h1 className="font-bold text-4xl">Grand Cureg Family</h1>
+        <p>Pagawa ni Tito Cris</p>
       </main>
 
     </div>
